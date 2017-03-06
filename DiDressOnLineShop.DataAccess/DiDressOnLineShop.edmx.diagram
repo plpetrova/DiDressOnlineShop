@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9d277cab1419473299b14b47f65cd6f6" Name="Diagram1" ZoomLevel="74">
+        <EntityTypeShape EntityType="DiDressModel.AdditionalCity" Width="1.5" PointX="8.25" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDressModel.Admin" Width="1.5" PointX="3.75" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDressModel.City" Width="1.5" PointX="3.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDressModel.Products" Width="1.5" PointX="0.75" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDressModel.ProductSize" Width="1.5" PointX="3" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDressModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDressModel.User" Width="1.5" PointX="6" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDressModel.UserCart" Width="1.5" PointX="3.75" PointY="13.125" IsExpanded="true" />
+        <AssociationConnector Association="DiDressModel.FK_AdditionalCity_User" ManuallyRouted="false" />
+        <AssociationConnector Association="DiDressModel.FK_User_Admin" ManuallyRouted="false" />
+        <AssociationConnector Association="DiDressModel.FK_User_City" ManuallyRouted="false" />
+        <AssociationConnector Association="DiDressModel.FK_ProductSize_Products" ManuallyRouted="false" />
+        <AssociationConnector Association="DiDressModel.FK_User_UserCart" ManuallyRouted="false" />
+        <AssociationConnector Association="DiDressModel.ProductsUsers" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

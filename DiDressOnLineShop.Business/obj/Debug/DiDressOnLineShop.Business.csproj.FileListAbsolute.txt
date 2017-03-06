@@ -1,0 +1,11 @@
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.Business\bin\Debug\DiDressOnLineShop.Business.dll
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.Business\bin\Debug\DiDressOnLineShop.Business.pdb
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.Business\bin\Debug\DiDressOnLineShop.DataAccess.dll
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.Business\bin\Debug\DiDressOnLineShop.Repository.dll
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.Business\bin\Debug\EntityFramework.dll
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.Business\bin\Debug\DiDressOnLineShop.DataAccess.pdb
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.Business\bin\Debug\DiDressOnLineShop.Repository.pdb
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.Business\bin\Debug\EntityFramework.xml
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.Business\obj\Debug\DiDressOnLineShop.Business.csprojResolveAssemblyReference.cache
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.Business\obj\Debug\DiDressOnLineShop.Business.dll
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.Business\obj\Debug\DiDressOnLineShop.Business.pdb

@@ -1,0 +1,77 @@
+2.3.2017 г. 15:27:47	This log contains information about the import schema operation into project 'DiDressOnLineShop.DB' on computer 'PLAMENA' by user 'Пламена'.
+2.3.2017 г. 15:27:47	Import of database schema has started.
+2.3.2017 г. 15:27:58	Gathering database options
+2.3.2017 г. 15:27:58	Gathering users
+2.3.2017 г. 15:27:58	Gathering roles
+2.3.2017 г. 15:27:58	Gathering application roles
+2.3.2017 г. 15:27:58	Gathering role memberships
+2.3.2017 г. 15:27:58	Gathering filegroups
+2.3.2017 г. 15:27:58	Gathering full-text catalogs
+2.3.2017 г. 15:27:58	Gathering assemblies
+2.3.2017 г. 15:27:58	Gathering certificates
+2.3.2017 г. 15:27:58	Gathering asymmetric keys
+2.3.2017 г. 15:27:58	Gathering symmetric keys
+2.3.2017 г. 15:27:58	Gathering encrypted symmetric keys
+2.3.2017 г. 15:27:58	Gathering schemas
+2.3.2017 г. 15:27:58	Gathering XML schema collections
+2.3.2017 г. 15:27:58	Gathering user-defined data types
+2.3.2017 г. 15:27:58	Gathering user-defined types
+2.3.2017 г. 15:27:58	Gathering table types
+2.3.2017 г. 15:27:58	Gathering unique keys for table types
+2.3.2017 г. 15:27:58	Gathering primary keys for table types
+2.3.2017 г. 15:27:58	Gathering indexes for table types
+2.3.2017 г. 15:27:59	Gathering check constraints for table types
+2.3.2017 г. 15:27:59	Gathering default constraints for table types
+2.3.2017 г. 15:27:59	Gathering partition functions
+2.3.2017 г. 15:27:59	Gathering partition schemes
+2.3.2017 г. 15:27:59	Gathering functions
+2.3.2017 г. 15:27:59	Gathering encrypted functions
+2.3.2017 г. 15:27:59	Gathering aggregates
+2.3.2017 г. 15:27:59	Gathering procedures
+2.3.2017 г. 15:27:59	Gathering encrypted procedures
+2.3.2017 г. 15:27:59	Gathering tables
+2.3.2017 г. 15:27:59	Gathering primary keys
+2.3.2017 г. 15:27:59	Gathering unique constraints
+2.3.2017 г. 15:27:59	Gathering foreign keys
+2.3.2017 г. 15:27:59	Gathering default constraints
+2.3.2017 г. 15:27:59	Gathering check constraints
+2.3.2017 г. 15:27:59	Gathering views
+2.3.2017 г. 15:27:59	Gathering encrypted views
+2.3.2017 г. 15:27:59	Gathering indexes
+2.3.2017 г. 15:27:59	Gathering statistics
+2.3.2017 г. 15:27:59	Gathering full-text index stoplists
+2.3.2017 г. 15:27:59	Gathering search property lists
+2.3.2017 г. 15:27:59	Gathering search properties
+2.3.2017 г. 15:27:59	Gathering full-text indexes
+2.3.2017 г. 15:27:59	Gathering column store indexes
+2.3.2017 г. 15:27:59	Gathering spatial indexes
+2.3.2017 г. 15:27:59	Gathering XML indexes
+2.3.2017 г. 15:27:59	Gathering Selective XML indexes
+2.3.2017 г. 15:27:59	Gathering encrypted triggers
+2.3.2017 г. 15:27:59	Gathering triggers
+2.3.2017 г. 15:27:59	Gathering encrypted and clr ddl triggers
+2.3.2017 г. 15:27:59	Gathering ddl triggers
+2.3.2017 г. 15:27:59	Gathering synonyms
+2.3.2017 г. 15:27:59	Gathering defaults
+2.3.2017 г. 15:27:59	Gathering data constraint uddt bindings
+2.3.2017 г. 15:27:59	Gathering rules
+2.3.2017 г. 15:27:59	Gathering data constraint uddt bindings
+2.3.2017 г. 15:27:59	Gathering message types
+2.3.2017 г. 15:27:59	Gathering queues
+2.3.2017 г. 15:27:59	Gathering contracts
+2.3.2017 г. 15:27:59	Gathering services
+2.3.2017 г. 15:27:59	Gathering event notifications
+2.3.2017 г. 15:28:00	Gathering remote service bindings
+2.3.2017 г. 15:28:00	Gathering broker priorities
+2.3.2017 г. 15:28:00	Gathering signatures
+2.3.2017 г. 15:28:00	Gathering data compression options
+2.3.2017 г. 15:28:00	Gathering sequence types
+2.3.2017 г. 15:28:00	Gathering extended properties
+2.3.2017 г. 15:28:00	Gathering credentials
+2.3.2017 г. 15:28:00	Gathering logins
+2.3.2017 г. 15:28:00	Gathering server audits
+2.3.2017 г. 15:28:00	Scanning project for duplicate elements
+2.3.2017 г. 15:28:03	Finished duplicate element processing
+2.3.2017 г. 15:28:03	Finished importing database.
+2.3.2017 г. 15:28:03	A summary of the import was saved to the following location: D:\Projects\DiDressOnLineShop\DiDressOnLineShop.DB\Import Schema Logs\DiDressOnLineShop.DB_20170302012747.log
+2.3.2017 г. 15:28:03	Click Finish to continue...

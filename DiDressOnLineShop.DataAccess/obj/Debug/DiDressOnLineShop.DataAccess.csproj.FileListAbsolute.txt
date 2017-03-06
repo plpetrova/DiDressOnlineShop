@@ -1,0 +1,12 @@
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.DataAccess\bin\Debug\DiDressOnLineShop.DataAccess.dll.config
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.DataAccess\bin\Debug\DiDressOnLineShop.DataAccess.dll
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.DataAccess\bin\Debug\DiDressOnLineShop.DataAccess.pdb
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.DataAccess\bin\Debug\EntityFramework.dll
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.DataAccess\bin\Debug\EntityFramework.xml
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.DataAccess\obj\Debug\DiDressOnLineShop.DataAccess.Properties.Resources.resources
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.DataAccess\obj\Debug\DiDressOnLineShop.DataAccess.csproj.GenerateResource.Cache
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.DataAccess\obj\Debug\DiDressOnLineShop.DataAccess.dll
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.DataAccess\obj\Debug\DiDressOnLineShop.DataAccess.pdb
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.DataAccess\obj\Debug\DiDressOnLineShop.DataAccess.csprojResolveAssemblyReference.cache

@@ -1,0 +1,77 @@
+11.2.2017 г. 12:44:57	This log contains information about the import schema operation into project 'DiDressOnLineShopDB' on computer 'PLAMENA' by user 'Пламена'.
+11.2.2017 г. 12:44:57	Import of database schema has started.
+11.2.2017 г. 12:45:05	Gathering database options
+11.2.2017 г. 12:45:06	Gathering users
+11.2.2017 г. 12:45:06	Gathering roles
+11.2.2017 г. 12:45:06	Gathering application roles
+11.2.2017 г. 12:45:06	Gathering role memberships
+11.2.2017 г. 12:45:06	Gathering filegroups
+11.2.2017 г. 12:45:06	Gathering full-text catalogs
+11.2.2017 г. 12:45:06	Gathering assemblies
+11.2.2017 г. 12:45:06	Gathering certificates
+11.2.2017 г. 12:45:06	Gathering asymmetric keys
+11.2.2017 г. 12:45:06	Gathering symmetric keys
+11.2.2017 г. 12:45:06	Gathering encrypted symmetric keys
+11.2.2017 г. 12:45:06	Gathering schemas
+11.2.2017 г. 12:45:06	Gathering XML schema collections
+11.2.2017 г. 12:45:06	Gathering user-defined data types
+11.2.2017 г. 12:45:06	Gathering user-defined types
+11.2.2017 г. 12:45:06	Gathering table types
+11.2.2017 г. 12:45:06	Gathering unique keys for table types
+11.2.2017 г. 12:45:06	Gathering primary keys for table types
+11.2.2017 г. 12:45:06	Gathering indexes for table types
+11.2.2017 г. 12:45:06	Gathering check constraints for table types
+11.2.2017 г. 12:45:06	Gathering default constraints for table types
+11.2.2017 г. 12:45:06	Gathering partition functions
+11.2.2017 г. 12:45:06	Gathering partition schemes
+11.2.2017 г. 12:45:06	Gathering functions
+11.2.2017 г. 12:45:06	Gathering encrypted functions
+11.2.2017 г. 12:45:06	Gathering aggregates
+11.2.2017 г. 12:45:06	Gathering procedures
+11.2.2017 г. 12:45:06	Gathering encrypted procedures
+11.2.2017 г. 12:45:06	Gathering tables
+11.2.2017 г. 12:45:06	Gathering primary keys
+11.2.2017 г. 12:45:06	Gathering unique constraints
+11.2.2017 г. 12:45:06	Gathering foreign keys
+11.2.2017 г. 12:45:06	Gathering default constraints
+11.2.2017 г. 12:45:06	Gathering check constraints
+11.2.2017 г. 12:45:06	Gathering views
+11.2.2017 г. 12:45:06	Gathering encrypted views
+11.2.2017 г. 12:45:06	Gathering indexes
+11.2.2017 г. 12:45:06	Gathering statistics
+11.2.2017 г. 12:45:06	Gathering full-text index stoplists
+11.2.2017 г. 12:45:06	Gathering search property lists
+11.2.2017 г. 12:45:06	Gathering search properties
+11.2.2017 г. 12:45:06	Gathering full-text indexes
+11.2.2017 г. 12:45:06	Gathering column store indexes
+11.2.2017 г. 12:45:06	Gathering spatial indexes
+11.2.2017 г. 12:45:06	Gathering XML indexes
+11.2.2017 г. 12:45:06	Gathering Selective XML indexes
+11.2.2017 г. 12:45:06	Gathering encrypted triggers
+11.2.2017 г. 12:45:06	Gathering triggers
+11.2.2017 г. 12:45:06	Gathering encrypted and clr ddl triggers
+11.2.2017 г. 12:45:06	Gathering ddl triggers
+11.2.2017 г. 12:45:06	Gathering synonyms
+11.2.2017 г. 12:45:06	Gathering defaults
+11.2.2017 г. 12:45:06	Gathering data constraint uddt bindings
+11.2.2017 г. 12:45:06	Gathering rules
+11.2.2017 г. 12:45:06	Gathering data constraint uddt bindings
+11.2.2017 г. 12:45:06	Gathering message types
+11.2.2017 г. 12:45:06	Gathering queues
+11.2.2017 г. 12:45:06	Gathering contracts
+11.2.2017 г. 12:45:06	Gathering services
+11.2.2017 г. 12:45:06	Gathering event notifications
+11.2.2017 г. 12:45:06	Gathering remote service bindings
+11.2.2017 г. 12:45:06	Gathering broker priorities
+11.2.2017 г. 12:45:06	Gathering signatures
+11.2.2017 г. 12:45:06	Gathering data compression options
+11.2.2017 г. 12:45:06	Gathering sequence types
+11.2.2017 г. 12:45:06	Gathering extended properties
+11.2.2017 г. 12:45:06	Gathering credentials
+11.2.2017 г. 12:45:06	Gathering logins
+11.2.2017 г. 12:45:06	Gathering server audits
+11.2.2017 г. 12:45:06	Scanning project for duplicate elements
+11.2.2017 г. 12:45:07	Finished duplicate element processing
+11.2.2017 г. 12:45:07	Finished importing database.
+11.2.2017 г. 12:45:07	A summary of the import was saved to the following location: D:\Projects\DiDressOnLineShop\DiDressOnLineShopDB\Import Schema Logs\DiDressOnLineShopDB_20170211104457.log
+11.2.2017 г. 12:45:07	Click Finish to continue...
