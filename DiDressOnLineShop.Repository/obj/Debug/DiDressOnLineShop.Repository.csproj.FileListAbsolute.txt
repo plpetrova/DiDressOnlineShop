@@ -1,0 +1,7 @@
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.Repository\bin\Debug\DiDressOnLineShop.Repository.dll
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.Repository\bin\Debug\DiDressOnLineShop.Repository.pdb
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.Repository\bin\Debug\DiDressOnLineShop.DataAccess.dll
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.Repository\bin\Debug\DiDressOnLineShop.DataAccess.pdb
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.Repository\obj\Debug\DiDressOnLineShop.Repository.csprojResolveAssemblyReference.cache
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.Repository\obj\Debug\DiDressOnLineShop.Repository.dll
+D:\Projects\DiDressOnLineShop\DiDressOnLineShop.Repository\obj\Debug\DiDressOnLineShop.Repository.pdb
